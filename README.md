@@ -1,5 +1,5 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-
+ 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
